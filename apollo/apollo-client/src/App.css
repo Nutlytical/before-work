@@ -1,0 +1,22 @@
+.App {
+  max-width: 70rem;
+  margin: 10rem auto;
+}
+
+.CharactersList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.Character {
+  display: flex;
+}
+
+.Character-content {
+  margin-left: 2rem;
+}
+
+.Character-episode {
+  margin-left: 2rem;
+}
